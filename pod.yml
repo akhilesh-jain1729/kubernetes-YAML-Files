@@ -4,7 +4,7 @@ metadata:          #(when we launch something, we put
   name: mypod1    # that data in metadata block)
   labels:
     env: dev
-    dc: US
+    dc: In
 spec:
   containers:
   - name: "mycon1"
